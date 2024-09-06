@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "role": "Web Developer",
+    "organisation": "Business Web Solution",
+    "startDate": "Oct, 2022",
+    "endDate": "Dec, 2022",
+    "location": "Nagpur",
+    "experiences": [
+      "Developed a web application using HTML, CSS, and MySQL, focusing on enhancing user experience and functionality.",
+      "Implemented responsive design principles to optimize performance across various devices and screen sizes."
+    ],
+    "imageSrc": "company/business_web_solution.png"
+  },
+  {
+    "id": 2,
+    "role": "FullStack Developer ",
+    "organisation": "Appxbuild Technologies",
+    "startDate": "Dec, 2023",
+    "endDate": "Current",
+    "location": "Nagpur",
+    "experiences": [
+      "Developed a web application using HTML, Tailwind CSS,Node JS,Express Js ,Mongodb and React.js, collaborating with backend developers for API integration.",
+      "Created a complete project with authentication and payment gateway functionalities I have worked on live projects utilizing AWS services to deploy applications in a cloud environment, set up CI/CD pipelines, and ensure smooth integration and delivery of new features..",
+      "Assisted in documentation, including technical specifications and user experience reports."
+    ],
+    "imageSrc": "company/appxbuild_technologies.png"
+  }
+]
