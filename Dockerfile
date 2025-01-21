@@ -18,4 +18,4 @@ COPY . .
 EXPOSE 5173
 
 # Run the application using vite (for Vite-based apps)
-CMD ["npm", "run", "dev"]
+CMD ["npm", "run", "dev", "--", "--host"]
