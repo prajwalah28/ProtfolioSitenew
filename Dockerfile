@@ -13,8 +13,8 @@ RUN npm install
 # Copy the rest of the application files to the working directory
 COPY . .
 
-# Expose the port on which the React app will run (default: 5173 for Vite or 3000 for older CRA)
+# Expose the port on which the React app will run (default: 3000 for CRA or 5173 for Vite)
 EXPOSE 3000
 
-# Start the application using npm run dev
-CMD ["npm", "run", "dev"]
+# Run the application using node app.js (assuming app.js is the entry point for your app)
+CMD ["node", "app.js"]
