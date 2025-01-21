@@ -17,4 +17,4 @@ COPY . .
 EXPOSE 3000
 
 # Run the application using node app.js (assuming app.js is the entry point for your app)
-CMD ["node", "app.js"]
+CMD ["npm", "start"]
